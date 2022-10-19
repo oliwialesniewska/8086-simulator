@@ -1,2 +1,2 @@
-# 3456-simulator
-CPU 3456 simulator
+# 8086-simulator
+CPU 8086 simulator
